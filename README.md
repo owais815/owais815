@@ -8,7 +8,7 @@
 ### <div align="center">I'm Owais Mehmood, a Software Engineer and  MERN-Stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working as a MERN Stack Developer at Decimal Solution  
+- 🔭 I’m currently working as a Team Lead and a MERN Stack Developer at Decimal Solution  
   
 
 - 🌱 I’m currently working on Blogging Website
