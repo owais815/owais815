@@ -11,7 +11,7 @@
 - 🔭 I’m currently working as a Team Lead and a MERN Stack Developer at Decimal Solution  
   
 
-- 🌱 I’m currently working on Blogging Website
+- 🌱 I’m currently working on BAV-IT-UK
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
