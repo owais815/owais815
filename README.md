@@ -4,7 +4,7 @@
 
 I build production platforms and the agentic-AI pipelines (LangGraph, PydanticAI, RAG) that automate the work inside them.
 
-- 🔭 Team Lead @ **Infovibes** — architecting **PulseAI**, a HIPAA-compliant healthcare + AI automation platform, end to end
+- 🔭 Team Lead @ **Teqore Systems** — architecting **PulseAI**, a HIPAA-compliant healthcare + AI automation platform, end to end
 - 🧠 4+ years shipping scalable apps across healthcare, ERP/SCM, and LMS — usually as the lead
 - 🤖 AI is my intern: fast hands, my judgment, my name on the ship.
 
